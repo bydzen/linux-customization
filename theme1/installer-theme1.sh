@@ -111,5 +111,12 @@ echo "All Done."
 
 echo "" # End of task 6.
 
+echo "=== Task 7: Change Desktop Wallpaper ==="
+echo "— pictrure-uri :: file:///home/$USER/Pictures/Wallpaper/wallpaper1.png"
+gsettings set org.gnome.desktop.background picture-uri file:///home/$USER/Pictures/Wallpaper/wallpaper1.png
+echo "All Done."
+
+echo "" # End of task 7.
+
 echo "All task completely run, thanks for using this script."
 echo "@bydzen"
