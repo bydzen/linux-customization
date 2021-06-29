@@ -36,7 +36,7 @@ echo "Done."
 
 echo "" # Note to installer's.
 
-echo "If you continue, make sure you have installed gnome-shell-extensions or enabled user themes via extensions in firefox/chrome. If not, maybe this program will not run in its entirety (there will be an error/misconfiguration in the shell)."
+echo "If you continue, make sure you have installed gnome-shell-extensions or enabled user themes via extensions in firefox/chrome. If not, maybe this program will not run in its entirety (there will be an error/misconfiguration in the shell). Please kindly to extract all source files to the destination directory."
 echo -n "Are you sure want to proceed? (y/N): "
 read PRCD
 
