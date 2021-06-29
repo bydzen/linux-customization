@@ -7,9 +7,9 @@ clear # Clearing the terminal screen.
 
 # Root checking.
 
-if [ $UID  -ne  0 ]
+if [ $UID  -eq  0 ]
 then
-  echo "You are not root. Exited."
+  echo "You're in root! Please run in user. Exited."
   exit
 fi
 
