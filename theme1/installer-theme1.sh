@@ -49,9 +49,9 @@ fi
 echo "" # Make local (user) folder list: ~/.icons; ~/themes.
 
 echo "=== Creating Directory: ==="
-echo "— Directory targer :: /home/$USER/.icons"
+echo "— Directory target :: /home/$USER/.icons"
 mkdir /home/$USER/.icons
-echo "— Directory targer :: /home/$USER/.themes"
+echo "— Directory target :: /home/$USER/.themes"
 mkdir /home/$USER/.themes
 echo "All done."
 
