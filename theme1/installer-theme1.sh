@@ -46,6 +46,15 @@ then
   exit
 fi
 
+echo "" # Make local (user) folder list: ~/.icons; ~/themes.
+
+echo "=== Creating Directory: ==="
+echo "— Directory targer :: /home/$USER/.icons"
+mkdir /home/$USER/.icons
+echo "— Directory targer :: /home/$USER/.themes"
+mkdir /home/$USER/.themes
+echo "All done."
+
 echo "" # Start of customizing task.
 
 echo "=== Your tasks: ==="
