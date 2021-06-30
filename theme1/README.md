@@ -1,4 +1,4 @@
-### Check folder 'assets' to extract prerequisites
+### Check folder 'assets' to see help and extract prerequisites
 #### More information about themes contact: dev@rayatiga.com
 
 #### Screenshots Themes1
