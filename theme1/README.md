@@ -7,6 +7,9 @@
 #### Files
 ![files-screenshots](https://raw.githubusercontent.com/bydzen/ubuntu-gnome-themes/main/theme1/img/files.png)
 
+#### Terminal
+![terminal-screenshots](https://raw.githubusercontent.com/bydzen/ubuntu-gnome-themes/main/theme1/img/terminal.png)
+
 #### Applications
 ![applications-screenshots](https://raw.githubusercontent.com/bydzen/ubuntu-gnome-themes/main/theme1/img/applications.png)
 
@@ -21,7 +24,4 @@
 
 #### Apps
 ![apps-screenshots](https://raw.githubusercontent.com/bydzen/ubuntu-gnome-themes/main/theme1/img/apps.png)
-
-#### Terminal
-![terminal-screenshots](https://raw.githubusercontent.com/bydzen/ubuntu-gnome-themes/main/theme1/img/terminal.png)
 
