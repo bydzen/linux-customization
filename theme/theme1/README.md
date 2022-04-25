@@ -2,26 +2,26 @@
 #### More information about themes contact: dev@rayatiga.com
 
 #### Screenshots Themes1
-![theme1-screenshots](https://raw.githubusercontent.com/bydzen/ubuntu-gnome-themes/main/theme1/img/screenshots-theme-1.png)
+![theme1-screenshots](https://raw.githubusercontent.com/bydzen/linux-customization-pt1/main/theme/theme1/img/screenshots-theme-1.png)
 
 #### Files
-![files-screenshots](https://raw.githubusercontent.com/bydzen/ubuntu-gnome-themes/main/theme1/img/files.png)
+![files-screenshots](https://raw.githubusercontent.com/bydzen/linux-customization-pt1/main/theme/theme1/img/files.png)
 
 #### Terminal
-![terminal-screenshots](https://raw.githubusercontent.com/bydzen/ubuntu-gnome-themes/main/theme1/img/terminal.png)
+![terminal-screenshots](https://raw.githubusercontent.com/bydzen/linux-customization-pt1/main/theme/theme1/img/terminal.png)
 
 #### Applications
-![applications-screenshots](https://raw.githubusercontent.com/bydzen/ubuntu-gnome-themes/main/theme1/img/applications.png)
+![applications-screenshots](https://raw.githubusercontent.com/bydzen/linux-customization-pt1/main/theme/theme1/img/applications.png)
 
 #### Places
-![places-screenshots](https://raw.githubusercontent.com/bydzen/ubuntu-gnome-themes/main/theme1/img/places.png)
+![places-screenshots](https://raw.githubusercontent.com/bydzen/linux-customization-pt1/main/theme/theme1/img/places.png)
 
 #### Dates
-![dates-screenshots](https://raw.githubusercontent.com/bydzen/ubuntu-gnome-themes/main/theme1/img/dates.png)
+![dates-screenshots](https://raw.githubusercontent.com/bydzen/linux-customization-pt1/main/theme/theme1/img/dates.png)
 
 #### Systems
-![systems-screenshots](https://raw.githubusercontent.com/bydzen/ubuntu-gnome-themes/main/theme1/img/systems.png)
+![systems-screenshots](https://raw.githubusercontent.com/bydzen/linux-customization-pt1/main/theme/theme1/img/systems.png)
 
 #### Apps
-![apps-screenshots](https://raw.githubusercontent.com/bydzen/ubuntu-gnome-themes/main/theme1/img/apps.png)
+![apps-screenshots](https://raw.githubusercontent.com/bydzen/linux-customization-pt1/main/theme/theme1/img/apps.png)
 
